@@ -1,0 +1,7 @@
+pandas
+numpy
+chart_studio
+cufflinks
+seaborn
+plotly.express
+nbformat
