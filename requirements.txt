@@ -5,3 +5,7 @@ cufflinks
 seaborn
 plotly.express
 nbformat
+scikit-learn
+imblearn
+collections
+matplotlib
